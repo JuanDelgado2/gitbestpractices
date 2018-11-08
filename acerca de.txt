@@ -1,0 +1,6 @@
+Nombre: 		Juan Delgado
+Edad: 			26
+Nacionalidad: 		mexicano
+Originario de: 		Tijuana, Baja California
+Estudios:		Ing. en sistemas computacionales 
+Profesión:		Estuduante
