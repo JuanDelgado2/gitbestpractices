@@ -1,0 +1,1 @@
+Tecnologias: PHP, React, React native, Angular, jQuery, CSS
